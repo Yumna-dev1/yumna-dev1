@@ -4,3 +4,6 @@ I am Yumna Amber, currently pursuing a B.Tech in Computer Science and Engineerin
 Currently learning C, C++, Python and SQL.
 Interested in cybersecurity, IoT and exploring new technologies.
 My goal is to build practical skills, work on meaningful projects, and contribute to open-source projects in the future.
+## Projects
+
+Built an IPL Ticket Booking Website using React and Supabase to manage ticket bookings and booking history.
